@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+.error {color:red;
+font-family:Arial;
+font-size:10pt;
+font-weight:bold;
+text-align: normal;
+}
+
+.good {color:blue;
+font-family:Arial;
+font-size:10pt;
+font-weight:bold;
+text-align: normal;
+}
